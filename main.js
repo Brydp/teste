@@ -9,6 +9,6 @@ function showcolor()
 
 function exibenome()
 {
-    let usúario = 
+    let usúario = document.getElementById( "nome" ).ariaValueMax;
 }
 
