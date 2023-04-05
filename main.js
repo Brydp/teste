@@ -10,7 +10,7 @@ function showcolor()
 function exibenome()
 {
     let usúario = document.getElementById( "nome" ).ariaValueMax;
-    document.getElementById( "mensagem" ).innerText = "Meu nome é: " + usuario;
+    document.getElementById( "mensagem" ).innerHTML = "Meu nome é: " + usuario;
     document.getElementById( "nome" ).value- "";
 }
 
