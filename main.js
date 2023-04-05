@@ -1,4 +1,4 @@
-document.body.addEventListener( "click" , showcolor );
+document.ddEventListener( "click" , showcolor );
 
 function showcolor()
 {
